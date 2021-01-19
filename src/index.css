@@ -1,0 +1,68 @@
+body {
+  background-color: #f3f3f3;
+  color: #000000;
+}
+main {
+  min-height: 80vh;
+}
+h3 {
+  padding: 1rem 0;
+}
+.rating span i {
+  margin: 0.1rem;
+}
+.rating span {
+  color: #fff;
+}
+a {
+  color: #000000;
+}
+h1 {
+  font-size: 1.4rem;
+  padding: 0.1rem;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: #000000;
+}
+.carousel-indicators {
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-left: 43%;
+  margin-right: 43%;
+  border-radius: 35px;
+}
+/* carousel */
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item.active {
+  display: flex;
+}
+.carousel-caption {
+  position: absolute;
+  top: 0px;
+}
+.rating span {
+  color: #000000;
+}
+.carousel-caption h2 {
+  font-weight: bold;
+  color: #000000;
+}
+.card {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+}
+.carousel img {
+  height: 60vh;
+  padding: 60px 0;
+  margin: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.carousel a {
+  margin: 0 auto;
+}
+@media (max-width: 900px) {
+  .carousel-caption h2 {
+    font-size: 2.5vw;
+  }
+}
