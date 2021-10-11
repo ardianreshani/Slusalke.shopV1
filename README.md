@@ -1,5 +1,5 @@
 
-Live [Demo](http://www.slusalke.shop/)
+Live [Demo](https://slusalkeshop.herokuapp.com/)
 
 <sub><sup>It will takes about 30 seconds to load for the first time then will work fine because I hosted it on heroku.com for free  :)</sup></sub>
 # Slusalke.shop
